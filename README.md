@@ -70,9 +70,9 @@ python3 ytbdlbot.py
 
 https://t.me/ytbdwl_bot
 
-<!-- <div align="center">
-<img src="https://media0.giphy.com/media/5dqOCsWGztbiAQWhgx/giphy.gif?cid=790b7611e80047821f61ac948baceed69b70cb9b50ca1603&rid=giphy.gif&ct=g" alt="See" width="440" height="736">
-</div> -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/oicarosales/ytbdlbot/main/exemple.jpg" alt="See" width="440" height="736">
+</div>
 
 
 ## ✍️ Authors <a name = "authors"></a>
